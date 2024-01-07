@@ -1,0 +1,1 @@
+Asynchronous I/O, or nonblocking I/O (NBIO), is a mechanism in which the process continues its execution without waiting for the I/O operation to complete.
