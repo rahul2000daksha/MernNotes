@@ -1,0 +1,14 @@
+1)-- Install Redux using npm or yarn
+
+2)-- Create Reducers (reducer.js)
+
+3)-- Create Actions (action.js)
+
+4)-- Combine Reducers (more than one reducers) (index.js)
+
+5)-- Create the Store and pass to all over Application (if using for first time to initialize Redux)(index.js--same file for creating store and combinning reducers)
+
+6)-- Use Redux in Functional Component (where we want to use) (app.js)
+
+
+
